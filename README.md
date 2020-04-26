@@ -1,3 +1,3 @@
 # MyJavaApps
 
-Defined Graph Data Structure  in JAVA by unsing adjacency lists.
+Defined Graph Data Structure  using JAVA with unsing adjacency lists.
